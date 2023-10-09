@@ -1,11 +1,11 @@
 # Replace the text below to customize your site
-site_name: Student Name - MDEF & Fab Lab Barcelona
+site_name: Anna Fedele - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Student Name
-copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
+site_author: Anna Fedele
+copyright: Copyleft 2023 "Anna Fedele" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+site_url: https://annafedele/mdef-template/
+repo_url: 'https://annafedele/fablabbcn/mdef-template'
 
 
 nav:
@@ -15,7 +15,7 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Landing: term1/landing/gitclass.md 
+          - Landing: term1/landing/gitclass.md
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
 
